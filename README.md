@@ -1,3 +1,3 @@
 # Bitcoin price
 
-Get bitcoin price in Python (<a href="https://pythonbasics.org">learn python</a>).
+Get bitcoin price in Python (https://pythonbasics.org)[learn python].
