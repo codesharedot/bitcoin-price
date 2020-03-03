@@ -2,7 +2,7 @@
 
 Get bitcoin price in Python (https://pythonbasics.org)[learn python].
 
-````
+```python
 import requests
 import json
 from forex_python.converter import CurrencyRates
