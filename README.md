@@ -1,6 +1,6 @@
 # Bitcoin price
 
-Get bitcoin price in Python (https://pythonbasics.org)[learn python].
+Get bitcoin price in Python [https://pythonbasics.org](learn python).
 
 ```python
 import requests
@@ -28,4 +28,4 @@ for coin in response.json():
     if btc_price_eur > 9000:
        os.system("notify-send trade btc")       
 ```
-See https://codesharedot.github.io/bitcoin-price/
+See [https://codesharedot.github.io/bitcoin-price/](project site)
